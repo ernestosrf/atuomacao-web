@@ -1,6 +1,6 @@
 # Automação Web e Busca de Informações com Python
 
-Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
+Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado à cotação de:
 - Dólar
 - Euro
 - Ouro
